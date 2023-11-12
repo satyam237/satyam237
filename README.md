@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/satyam-jadhav-90069b248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="satyam-jadhav-90069b248" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/satyam-jadhav-90069b248" target="blank"><img align="center" src="https://github.com/satyam237/satyam237/blob/main/media/LinkedIn_logo_initials.png" alt="satyam-jadhav-90069b248" height="40" width="40" /></a>
 <a href="https://kaggle.com/satyamjadhav012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="satyamjadhav012" height="30" width="40" /></a>
 <a href="https://instagram.com/satyamjadhav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyamjadhav_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/secondmail4abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="secondmail4abhi" height="30" width="40" /></a>
