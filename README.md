@@ -70,4 +70,4 @@
 <br>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=satyam237&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=BF40BF&text_color=efefef&bg_color=24292e" alt="satyam's Github Stats" width="60%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=satyam237&&show_icons=true&include_all_commits=true&title_color=FFF&icon_color=BF40BF&text_color=5D3FD3&bg_color=24292e" alt="satyam's Github Stats" width="60%">
