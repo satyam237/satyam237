@@ -16,10 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="https://linkedin.com/in/satyam-jadhav-90069b248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-jadhav-90069b248" height="30" width="40" /></a>
 <a href="https://kaggle.com/satyamjadhav012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="satyamjadhav012" height="30" width="40" /></a>
-
 <a href="https://instagram.com/satyamjadhav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyamjadhav_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/secondmail4abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="secondmail4abhi" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="#" height="30" width="40" /></a>
@@ -31,11 +29,11 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am Currently a Python and Data Science learner 
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Machine Learning, NLP.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2023 Goals: Contribute to Open Source projects
-- 🧗 I try to: Complete things I started.
-- ⚡ Fun fact: I love exploring new experiences!
+- 🥅 2023 Goals: Contribute to Open Source projects and practice coding constantly.
+- 🧗 I try to: Complete things I started and stay consistent😤.
+- ⚡ Fun fact: I love exploring and making new experiences🤪!
 
 <br>
 
@@ -47,9 +45,8 @@
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<!--<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
+
+
 <img align="left" alt="Linux" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
