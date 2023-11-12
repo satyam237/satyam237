@@ -11,22 +11,8 @@
     <img src="https://komarev.com/ghpvc/?username=satyam237&label=Profile%20views&color=0e75b6&style=flat" alt="satyam237" />
 </p>
 
-<p align="center">
+
 <br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/satyam-jadhav-90069b248" target="blank"><img align="center" src="https://github.com/satyam237/satyam237/blob/main/media/LinkedIn_logo_initials.png" alt="satyam-jadhav-90069b248" height="40" width="40" /></a>
-<a href="https://kaggle.com/satyamjadhav012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="satyamjadhav012" height="30" width="40" /></a>
-<a href="https://instagram.com/satyamjadhav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyamjadhav_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/secondmail4abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="secondmail4abhi" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="#" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=61550427982072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Satyam Jadhav" height="30" width="40" /></a>
-
-</p>
-</p>
-
-<be>
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
@@ -37,6 +23,8 @@
 - 🧗 I try to: Complete things I started and stay consistent😤.
 - ⚡ Fun fact: I love exploring and making new experiences🤪!
 
+<br>
+<br>
 <br>
 
 ### Languages and Tools: 
@@ -62,8 +50,24 @@
 <br>
 <br>
 
+<p align="center">
 
 
-### Github Stats
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/satyam-jadhav-90069b248" target="blank"><img align="center" src="https://github.com/satyam237/satyam237/blob/main/media/LinkedIn_logo_initials.png" alt="satyam-jadhav-90069b248" height="40" width="40" /></a>
+<a href="https://kaggle.com/satyamjadhav012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="satyamjadhav012" height="30" width="40" /></a>
+<a href="https://instagram.com/satyamjadhav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyamjadhav_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/secondmail4abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="secondmail4abhi" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="#" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61550427982072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Satyam Jadhav" height="30" width="40" /></a>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=satyam237&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="satyam's Github Stats" width="60%">
+</p>
+</p>
+
+<br>
+<br>
+<br>
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=satyam237&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=BF40BF&text_color=efefef&bg_color=24292e" alt="satyam's Github Stats" width="60%">
