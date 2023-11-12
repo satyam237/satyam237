@@ -1,10 +1,10 @@
+<img align="center" height="270px" alt="img" src="https://github.com/satyam237/satyam237/blob/main/media/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png" />
   
 <p>
-  <h1 align="center"><b>Hey there👋! I'm Satyam Jadhav </b></h1>
+  <h1 align="center"><b>Hey there👋! </b></h1>
 </p>
-
 <p>
-  <h4 align="center"><b><i>"Aspiring Ai & Data Enthusiast."</i></b></h4>
+  <h4 align="center"><b><i>"I am an Aspiring Ai & Data Enthusiast."</i></b></h4>
 </p>
 
 <p align="center">
@@ -24,9 +24,9 @@
 </p>
 </p>
 
-<br>
+<be>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
 ### I am Currently a Python and Data Science learner 
 - 🌱 I’m currently learning Machine Learning, NLP.
