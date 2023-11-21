@@ -1,7 +1,7 @@
 <img align="center" height="270px" alt="img" src="https://github.com/satyam237/satyam237/blob/main/media/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png" />
   
 <p>
-  <h1 align="center"><b>नमस्ते (Namaste)🙏🏻 </b></h1>
+  <h1 align="center"><b>Hello👋! Welcome to my GitHub Profile 😙</b></h1>
 </p>
 <p>
   <h4 align="center"><b><i>"I am an Aspiring Ai & Data Enthusiast based in India."</i></b></h4>
