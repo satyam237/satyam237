@@ -1,10 +1,13 @@
 <img align="center" height="270px" alt="img" src="https://github.com/satyam237/satyam237/blob/main/media/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png" />
   
 <p>
-  <h1 align="center"><b>Hello👋! Welcome to my GitHub Profile 😙</b></h1>
+  <h1 align="center"><b>Hello	<a href="https://github.com/AniketP04" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>! Welcome to my GitHub Profile 😙</b></h1>
 </p>
-<p>
-  <h4 align="center"><b><i>"I am an Aspiring Ai & Data Enthusiast based in India."</i></b></h4>
+<br/>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Always+Learning+New+Things+!;AI%2C+DS%2C+ML%2FDL+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -19,7 +22,7 @@
 ### I am Currently a Python and Data Science learner 
 - 🌱 I’m currently learning Machine Learning, NLP.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2023 Goals: Contribute to Open Source projects and practice coding constantly.
+- 🥅 2024 Goals: Contribute to Open Source projects and practice coding constantly.
 - 🧗 I try to: Complete things I started and stay consistent😤.
 - ⚡ Fun fact: I love exploring and making new experiences🤪!
 
