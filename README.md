@@ -19,10 +19,10 @@
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-### I am Currently a Python and Data Science learner 
-- 🌱 I’m currently learning Machine Learning, NLP.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2024 Goals: Contribute to Open Source projects and practice coding constantly.
+### I am a AI Solutions Engineer & Data Scientist by Profession 
+- 🌱 Passionate about products and building stuff!
+- 👯 I’m Openly looking to collaborate with other Developers, clients :wink:
+- 🥅 2026 Goals: Make freelancing full-time, and create as many products as i can, untill i launch something of my own.
 - 🧗 I try to: Complete things I started and stay consistent😤.
 - ⚡ Fun fact: I love exploring and making new experiences🤪!
 
