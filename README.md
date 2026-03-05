@@ -1,76 +1,39 @@
-<img align="center" height="270px" alt="img" src="https://github.com/satyam237/satyam237/blob/main/media/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png" />
-  
+<h1> Hi, I'm Satyam 👋 </h1>
+
+I build production-grade AI systems — RAG pipelines, LLM-powered agents, and end-to-end AI products that go beyond prototypes.
+
+Most of my work lives at the intersection of LLMs and real-world products: architecting agentic workflows with LangGraph, building retrieval-augmented generation systems, and deploying scalable AI pipelines on AWS. I care about shipping things that actually work in production, not just in notebooks.
+
+**What I work on**
+
+- **AI Agents:** Multi-step agentic systems using LangGraph & LangChain — from design to deployment
+- **RAG Pipelines:** Vector search, hybrid retrieval, chunking strategies, and production-grade document Q&A
+- **LLM Integration:** Prompt engineering, tool calling, memory management, and model orchestration
+- **AI Products:** Full-stack AI applications with FastAPI, React, Supabase, and cloud infrastructure
+- **Automation:** Content agents, invoice processing, web scraping pipelines, and workflow automation
+
+<h2> About Me </h2>
+
+- **AI Solutions Engineer at BrightLabs** — building RAG systems, AI agents, and production AI pipelines on AWS
+- Creator of [**gemini-tokenizer.site**](https://gemini-tokenizer.site) — an open-source tokenizer tool for Google's Gemini models
+- Built **AI InvoiceFlow** — an intelligent invoice processing system using Gemini + LangGraph + Supabase
+- Built **LinkedMind** — a personal LinkedIn content automation agent (LangGraph, 14-file Python package)
+- Copyright holder for research in **RGB-D Saliency Detection** using Deep Learning
+- **IBM Data Science Specialization** certified
+- B.Tech in AI & Data Science — VIIT, Pune (2021–2025)
+- Previous experience at **AdvaRisk** (A/B testing AI models, inference optimization) and **HCL Technologies** (manufacturing automation)
+
+**🛠️ Core Stack**
+
+`Python` · `LangChain` · `LangGraph` · `FastAPI` · `AWS` · `Docker` · `React` · `Supabase` · `PostgreSQL` · `Vector DBs` · `Git`
+
+<h2> Connect </h2>
+
 <p>
-  <h1 align="center"><b>Hello	<a href="https://github.com/AniketP04" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>! Welcome to my GitHub Profile 😙</b></h1>
-</p>
-<br/>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Always+Learning+New+Things+!;AI%2C+DS%2C+ML%2FDL+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://linkedin.com/in/satyam-jadhav-90069b248" target="blank"><img align="center" src="https://github.com/satyam237/satyam237/blob/main/media/LinkedIn_logo_initials.png" alt="satyam-jadhav-90069b248" height="35" width="35" /></a>&nbsp;&nbsp;
+<a href="https://kaggle.com/satyamjadhav012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="satyamjadhav012" height="28" width="35" /></a>&nbsp;&nbsp;
 </p>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=satyam237&label=Profile%20views&color=0e75b6&style=flat" alt="satyam237" />
-</p>
+---
 
-
-<br>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-### I am a AI Solutions Engineer & Data Scientist by Profession 
-- 🌱 Passionate about products and building stuff!
-- 👯 I’m Openly looking to collaborate with other Developers, clients :wink:
-- 🥅 2026 Goals: Make freelancing full-time, and create as many products as i can, untill i launch something of my own.
-- 🧗 I try to: Complete things I started and stay consistent😤.
-- ⚡ Fun fact: I love exploring and making new experiences🤪!
-
-<br>
-<br>
-<br>
-
-### Languages and Tools: 
-
-<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="CPP" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="C" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="aws" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="pandas" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
-<img align="left" alt="OpenCV" width="35px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
-
-<img align="left" alt="Linux" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br>
-<br>
-<br>
-<br>
-
-<p align="center">
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/satyam-jadhav-90069b248" target="blank"><img align="center" src="https://github.com/satyam237/satyam237/blob/main/media/LinkedIn_logo_initials.png" alt="satyam-jadhav-90069b248" height="40" width="40" /></a>
-<a href="https://kaggle.com/satyamjadhav012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="satyamjadhav012" height="30" width="40" /></a>
-<a href="https://instagram.com/satyamjadhav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyamjadhav_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/secondmail4abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="secondmail4abhi" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="#" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=61550427982072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Satyam Jadhav" height="30" width="40" /></a>
-
-</p>
-</p>
-
-<br>
-<br>
-<br>
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=satyam237&&show_icons=true&include_all_commits=true&title_color=FFF&icon_color=BF40BF&text_color=5D3FD3&bg_color=24292e" alt="satyam's Github Stats" width="60%">
+**🌱 Building something with AI Agents, RAG, or LLMs? Always happy to collaborate, jam on ideas, or contribute. Let's connect.**
